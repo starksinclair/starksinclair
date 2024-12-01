@@ -37,7 +37,8 @@ Let’s build, innovate, and inspire together! 🚀
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=starksinclair&theme=darkhub&rank=-?&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starksinclair&theme=darkhub&rank=-?&column=3&margin-w=15&margin-h=15" alt="starksinclair" /></a> </p>
 
 
 ## GitHub Stats 📊
