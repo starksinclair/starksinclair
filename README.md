@@ -1,28 +1,17 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/9/9c/York_Minster_Chapter_House_Ceiling.jpg)](https://github.com/johnDoe)
-<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/York_Minster_Chapter_House_Ceiling.jpg">
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+[![Banner](https://i.ibb.co/PF7D3q3/Pink-and-Orange-Retro-Brainstorm-Presentation.png)](https://www.sinclairnzenwata.site/)
+
 
 --- 
 ![](https://komarev.com/ghpvc/?username=starksinclair&style=for-the-badge)
-<!-- Markdown -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## About Me
-Hi, I'm Sinclair, a **Web Developer in making** 👨‍💻  
-I'm a 2nd-year student pursuing a Master's in Computer Applications 🏫 from Guru Gobind Singh Indraprastha University 🏛️.  
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.  
-I love to explore new technologies and leverage them to solve real-life problems ✨.  
-Apart from that, I also love to guide and mentor newbies 🌟.  
+Hi, I'm Sinclair, a Web Developer in making 👨‍💻
+I'm an international student pursuing a Bachelor's in Computer Science 🏫, at Ball State University
+I'm a passionate learner who's always eager to build cool and exciting projects 💡. My journey includes working on impactful applications like the Wheel of Life App and School Flow, where I focus on creating meaningful user experiences and solving real-world challenges ✨.
 
-I'm currently into **Web Development** 🌐 and working on my **Data Structures and Algorithms skills** 📈.
+Currently, I’m honing my skills in Web Development, delving deeper into Full Stack Development, and expanding my knowledge of Data Structures and Algorithms 📈. I thrive on guiding and mentoring others 🌟, sharing the knowledge I've gained through exciting projects like Pantry Vision and custom WordPress plugins.
 
+Let’s build, innovate, and inspire together! 🚀
 ---
 
 ## Technology Stack 🛠️
@@ -53,7 +42,11 @@ I'm currently into **Web Development** 🌐 and working on my **Data Structures 
 
 ## GitHub Stats 📊
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=starksinclair&show_icons=true&locale=en&theme=transparent&layout=compact" alt="starksinclair" /></p>
 
 [![Sinclair's GitHub stats](https://github-readme-stats.vercel.app/api?username=starksinclair&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=starksinclair&theme=transparent)](https://git.io/streak-stats)
+
+## Jokes
+![Jokes Card](https://readme-jokes.vercel.app/api)
